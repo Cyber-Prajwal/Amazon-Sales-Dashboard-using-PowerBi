@@ -1,5 +1,5 @@
 # Amazon-Sales-Dashboard-using-PowerBi
-####Power Bi Amazon sales data dashboard:
+#### Power Bi Amazon sales data dashboard:
 - This dashboard equips you to gain deeper insights into their sales data. It enables the company to track key sales metrics and assess performance across different products, categories, and time periods. By leveraging interactive features and KPIs, they can easily identify areas for growth, such as underperforming products or regions, and make informed decisions to enhance their sales strategies.
 - The dashboard also highlights customer purchasing trends and seasonal patterns, helping Amazon optimize inventory management and marketing efforts. Additionally, with advanced filtering options, stakeholders can dynamically explore data, ensuring that they stay agile and responsive to shifting market demands.
 - Since some product categories show lower sales performance compared to others, Amazon can focus on boosting those areas. Moreover, tracking these trends helps reduce the average time taken to address sales gaps and improve overall efficiency.
