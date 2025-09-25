@@ -4,6 +4,10 @@
 - The dashboard also highlights customer purchasing trends and seasonal patterns, helping Amazon optimize inventory management and marketing efforts. Additionally, with advanced filtering options, stakeholders can dynamically explore data, ensuring that they stay agile and responsive to shifting market demands.
 - Since some product categories show lower sales performance compared to others, Amazon can focus on boosting those areas. Moreover, tracking these trends helps reduce the average time taken to address sales gaps and improve overall efficiency.
 
+<img width="1405" height="803" alt="image" src="https://github.com/user-attachments/assets/e5388e3d-f123-4e55-ac97-c354d0790005" /> <img width="1179" height="770" alt="image" src="https://github.com/user-attachments/assets/7e5b9bb1-229c-44d8-9201-d30cc02383f8" />
+
+
+
 ## Dashboard  
 
 https://github.com/user-attachments/assets/4004cf99-4382-473e-b86d-74163755495f
